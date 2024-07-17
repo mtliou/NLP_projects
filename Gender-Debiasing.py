@@ -1,3 +1,11 @@
+"""
+Implement two models from the word2vec project: Continuous Bag-of-Words (CBOW) and Skip-Gram. The implementations follow from this paper: https://arxiv.org/pdf/1301.3781.pdf
+
+Then 
+
+Investigating techniques for measuring gender bias in word embeddings. Specifically, you will be investigating gender bias in GloVe embeddings. We will use the 300 dimensional glove.6B vectors.
+Mitigating Gender Bias in Word Embeddings: implement HardDebias, a technique for mitigating bias in word embeddings.
+"""
 import csv
 import json
 import itertools
