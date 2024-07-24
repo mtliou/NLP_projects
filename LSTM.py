@@ -1,3 +1,10 @@
+'''
+implementation of the following:
+1. Character RNN 
+2. Character LSTM 
+3. Shallow BiLSTM for SNLI dataset 
+'''
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
