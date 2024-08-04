@@ -1,3 +1,12 @@
+"""
+1. Use NLI training data to finetune a DistilBERT model and predict whether a premise entails a hypothesis or not. 
+
+2. Following Lester et al (2021), implementation of their prompt tuning method (“soft prompts”).
+
+3. implement a model similar to Dense Passage Retrieval for Open-Domain Question Answering by Karpukhin et al (2020). 
+
+"""
+
 import random
 from typing import Union
 
